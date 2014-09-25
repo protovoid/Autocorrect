@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1113C264-F01B-472A-A7B0-CD7C8CAB67C0</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Autocorrect</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</key>
+		<string>https://github.com/protovoid/test.git</string>
+		<key>435D024FF8D6B3DB1937EC3F0016C7442D5FD1B5</key>
+		<string>https://github.com/protovoid/Autocorrect.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Autocorrect.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</key>
+		<string>../../..</string>
+		<key>435D024FF8D6B3DB1937EC3F0016C7442D5FD1B5</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/protovoid/Autocorrect.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>435D024FF8D6B3DB1937EC3F0016C7442D5FD1B5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22CAA75FACA6DAB11D3BFA56E71B7A9156EC46BE</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>435D024FF8D6B3DB1937EC3F0016C7442D5FD1B5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Autocorrect</string>
+		</dict>
+	</array>
+</dict>
+</plist>
